@@ -11,12 +11,10 @@
 <br/>
 
 ## Demonstração da aplicação
-
-Aqui
-terá
-Imagens
-ou 
-Gif
+<br/>
+<img src="./app.gif" />
+<br/>
+<br/>
 
 ## Objetivos
 Esse projeto foi desenvolvido visando desenvolver um app de receitas, utilizando duas ferramentas dentro do ecossistema React: Hooks e Redux! Nesse app é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
