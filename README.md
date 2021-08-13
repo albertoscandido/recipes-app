@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 <p>Um app de receitas (feito pensado para mobile) onde o usuário pode interagir e aplicar diferentes tipos de buscas e filtros.</p>
-<h1 align="center">  <a href="https://pt-br.reactjs.org/docs/getting-started.html">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
+<h1 align="center">  <a href="https://albertoscandido.github.io/recipes-app/">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
 
 
 # Sumário
