@@ -33,6 +33,7 @@ O layout tem como foco dispositivos móveis.
 - Hooks
 - <a href="https://react-redux.js.org/">Redux</a>
 - <a href="https://reactrouter.com/web/guides/quick-start">React-router-dom</a>
+- <a href="https://www.npmjs.com/package/redux-thunk">React-thunk</a>
 - Css
 
 <br/>
